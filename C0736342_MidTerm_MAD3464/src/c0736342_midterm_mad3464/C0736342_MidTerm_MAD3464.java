@@ -11,11 +11,13 @@ package c0736342_midterm_mad3464;
  */
 public class C0736342_MidTerm_MAD3464 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("Reverse of College is " + LambtonStringUtils.reverseString("College"));
+        System.out.println("Binary to decimal is :"+ LambtonStringUtils.binaryTodecimalconvert("10101"));
+        
+        
     }
     
 }
