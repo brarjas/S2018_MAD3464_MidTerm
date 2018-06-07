@@ -18,6 +18,8 @@ public class C0736342_MidTerm_MAD3464 {
         System.out.println("Binary to decimal is :"+ LambtonStringUtils.binaryTodecimalconvert("10101"));
         
         
+        System.out.println("Most frequent character is " + LambtonStringUtils.mostFrequent("lambton college"));
+        System.out.println("replace string  " + LambtonStringUtils.replaceSubString("Cat is there, is" ,"is", "was"));
     }
     
 }
